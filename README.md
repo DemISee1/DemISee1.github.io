@@ -11,8 +11,10 @@ These instructions will guide you through the process of hosting your resume on 
 ### Prerequisites
 
 You must meet the following requirements before moving on to the instructions:
-- Have a Github account. If you do not already have one visit the [Creating an account on Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) page on the official Github website and follow the instructions given there.
-- Have a good understanding of how to write markdown/GitHub Flavoured Markdown (GFM). Refer to the [more resources](#More-Resources) section.
+
+- Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
+- Have a good understanding of how to write markdown. Refer to these [additional resources](#More-Resources) to help.
+- Use a markdown editor capable of rendering GitHub Flavoured Markdown (GFM) or an in-browser. I recommend you use [StackEdit](https://stackedit.io/), and in-browser markdown editor.
 - Have a resume.
 
 ### Instructions
@@ -33,8 +35,11 @@ for a little demo
 
 ## More Resources
 
-- [Markdown tutorial](https://www.markdowntutorial.com)
-
+- Markdown
+    - [Markdown tutorial](https://www.markdowntutorial.com)
+    - 
+- Github
+    - 
 
 ## Authors & Acknowledgements
 
