@@ -32,7 +32,8 @@ End with an example of getting some data out of the system or using it
 for a little demo
 
 ## More Resources
-[A good markdown tutorial](https://www.markdowntutorial.com)
+
+- [A good markdown tutorial](https://www.markdowntutorial.com)
 
 
 ## Authors & Acknowledgements
@@ -44,10 +45,12 @@ for a little demo
 
 ## FAQ
 
-### Q: What time is it?
+### Q: Why is markdown better than a word processor?
 
-A: It is 13:40 pm.
+A: Because it is :)
 
-### Q: What day is it?
+### Q: Why is my resume not showing up?
 
-A: March 6th, 2024
+A: Idk 🤷‍♂️
+
+^^ Will replace with serious answers ^^
