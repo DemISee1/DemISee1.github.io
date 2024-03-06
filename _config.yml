@@ -1,6 +1,4 @@
-title: "My CSV"
-author: Demessie Amede
-date: Fall 2023
-theme: jekyll-theme-modernist
-geometry: margin=2.54cm
-output: pdf_document
+# Site settings
+title: My CV
+description: This is my CV.
+theme: jekyll-theme-minimal
