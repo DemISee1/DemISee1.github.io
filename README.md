@@ -47,6 +47,10 @@ for a little demo
 
 ## FAQ
 
-### What time is it?
-- sfdas
-- 
+### Q: What time is it?
+
+A: It is 13:40 pm.
+
+### Q: What day is it?
+
+A: March 6th, 2024
