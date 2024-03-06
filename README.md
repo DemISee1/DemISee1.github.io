@@ -1,21 +1,19 @@
 # Hosting a Website on Github Pages
 
-This document describes how to host a website using github pages and have a related discussion using Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+## Purpose
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+The purpose of this document is to describes the practical steps of how to host and format a resume using github pages with related discussion around Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## Getting Started
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+These instructions will guide you through the process of hosting your resume on Github Pages as a static site.
 
 ### Prerequisites
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+You must meet the following requirements before moving on to the instructions:
+- Have a Github account. If you do not already have one visit the [Creating an account on Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) page on the official Github website and follow the instructions given there.
+- Have a good understanding of how to write markdown/GitHub Flavoured Markdown (GFM). 
+- Have a resume.
 
 ### Installing
 
