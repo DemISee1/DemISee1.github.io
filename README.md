@@ -35,12 +35,9 @@ for a little demo
 [A good markdown tutorial](https://www.markdowntutorial.com)
 
 
-## Authors
+## Authors & Acknowledgements
 
 - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
-
-## Acknowledgments
-
 - Hat tip to anyone whose code is used
 - Inspiration
 - etc
