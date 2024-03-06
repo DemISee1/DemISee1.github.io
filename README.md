@@ -1,6 +1,6 @@
-# Project Title
+# Hosting a Website on Github Pages
 
-One Paragraph of the project description
+This document describes how to host a website using github pages and have a related discussion using Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
