@@ -12,7 +12,7 @@ These instructions will guide you through the process of hosting your resume on 
 
 You must meet the following requirements before moving on to the instructions:
 - Have a Github account. If you do not already have one visit the [Creating an account on Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) page on the official Github website and follow the instructions given there.
-- Have a good understanding of how to write markdown/GitHub Flavoured Markdown (GFM). 
+- Have a good understanding of how to write markdown/GitHub Flavoured Markdown (GFM). Refer to the [more resources](## More Resources) section.
 - Have a resume.
 
 ### Instructions
@@ -33,7 +33,7 @@ for a little demo
 
 ## More Resources
 
-- [A good markdown tutorial](https://www.markdowntutorial.com)
+- [Markdown tutorial](https://www.markdowntutorial.com)
 
 
 ## Authors & Acknowledgements
