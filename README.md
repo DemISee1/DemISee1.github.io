@@ -31,8 +31,9 @@ You must meet the following requirements:
   
 > "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
-2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository (should be in markdown already).
+2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository.
 
+- You should have a markdwon-formatted resume. Make sure to rename it to `index.md` since Github pages looks for a file of that name when rendering the static site.
 - Use *Show in Finder* an add your resume to the folder.
  
     ![](Images/OpenRepoInFinder.png)
@@ -52,12 +53,13 @@ You must meet the following requirements:
 4. Set up Github Pages
 
 - Navigate to your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
-- Now we need to change some setting within our repository.
+- Now we need to change our repository settings to tell Github Pages which directory to render.
     - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
     - Navigate to the 'Pages' tab under 'Code and Automation'.
     - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
     - Change the branch to `main`, folder to `/root`, and finally press 'save'.
 
+![](Images/GithubPages.png)
 
 ## More Resources
 
