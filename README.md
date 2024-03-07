@@ -49,7 +49,7 @@ You must meet the following requirements:
 
     - After completing this step your resume should be visible in your remote Github repository. You can view your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
 
-4. Set up Github Pages
+4. Set up Github Pages.
 
     - Navigate to your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
     - Now you need to edit your repository settings to tell Github Pages which directory to render.
@@ -60,7 +60,24 @@ You must meet the following requirements:
 
         ![](Images/GithubPages.png)
 
-5. Your resume should be hosted.
+5. Adding a theme to your GitHub Pages site using Jekyll.
+
+    - First you add a `_config.yml` file to your repository if one does not already exist. Yo can do this by clicking on 'Add file' then clicking on 'Create new file'.
+
+        ![]()
+
+    - Now you should add the necessary information into your configuration file. Below is an example of a `_config.yml` file which you should use for reference.
+  
+      ```yml
+      title: [PageTitle]
+      description: [PageDescription]
+      theme: [ChosenTheme]
+      ```
+      
+    - Github Pages supports a number of [themes](https://pages.github.com/themes/).
+    
+6. Your resume should be hosted.
+    
     - You can view your resume at `https://[RepositoryName]`. Note this will only work if your repository is properly named with the schema `[YourUsername].github.io`.
 
 ## More Resources
