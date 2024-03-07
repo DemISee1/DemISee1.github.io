@@ -6,7 +6,7 @@ The goal of this document is to describes the practical steps necessary to host 
 
 ## Getting Started
 
-These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with MacOS in mind, thus it may not work on other operating systems. 
+These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with MacOS in mind. If you are using a different operating system the links provided may not be suitable for you. 
 
 ### Prerequisites
 
@@ -17,20 +17,24 @@ You must meet the following requirements before moving on to the instructions:
 - Have [Github Desktop](https://desktop.github.com) installed or simply use git if you are already familiar with it.
 - Have a good understanding of how to write Markdown.
     - Refer to these [additional resources](#More-Resources) if needed.
-- Have a markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
-- Have a resume 🙂.
+- Have a markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
+- Have a resume formatted in markdown.
 
 ### Instructions
 
 1. Create a new Github repository called `[YourUsername].github.io`
 
-    ![](Images/CreateNewRepository.png)
 
-- Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository.
-- Name your repository `[YourUsername].github.io`.
+- Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
 - (Optional) You may choose to add a description for your repository.
 
-    "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
+  ![](Images/CreateNewRepository.png)
+  
+> "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
+
+2. Commit your markdown-formatted resume
+
+- 
 
 ## More Resources
 
