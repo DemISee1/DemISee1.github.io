@@ -60,6 +60,9 @@ You must meet the following requirements:
 
         ![](Images/GithubPages.png)
 
+5. Your resume should be hosted.
+    - You can view your resume at `https://[RepositoryName]`. Note this will only work if your repository is properly named with the schema `[YourUsername].github.io`.
+
 ## More Resources
 
 - Markdown
