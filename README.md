@@ -1,26 +1,27 @@
-# Hosting a Website on Github Pages
+# Hosting an Online Resume and Readme using Etter's Modern Technical Writing Principles
 
 ## Purpose
 
-The purpose of this document is to describes the practical steps of how to host and format a resume using github pages with related discussion around Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+The goal of this document is to describes the practical steps necessary to host and format a resume using github pages with related discussion around Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## Getting Started
 
-These instructions will guide you through the process of hosting your resume on Github Pages as a static site.
+These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with MacOS in mind, thus it may not work on other operating systems.
 
 ### Prerequisites
 
 You must meet the following requirements before moving on to the instructions:
 
 - Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
-- Have a good understanding of how to write markdown. Refer to these [additional resources](#More-Resources) to help.
-- Use a markdown editor capable of rendering GitHub Flavoured Markdown (GFM) or an in-browser. I recommend you use [StackEdit](https://stackedit.io/), and in-browser markdown editor.
+- Have [Github Desktop](https://desktop.github.com) installed or simply use git if you are already familiar with it.
+- Have a good understanding of how to write Markdown.
+    - Refer to these [additional resources](#More-Resources) if needed.
+- Have a markdown editor capable of rendering GitHub Flavoured Markdown (GFM) or an in-browser editor. I recommend you use [StackEdit](https://stackedit.io/) which is an in-browser editor.
 - Have a resume.
 
 ### Instructions
 
-A step by step series of examples that tell you how to get a development
-environment running
+Here is a step-by-step process of how to use Etter's principles to host a resume on Github pages.
 
 Say what the step will be
 
@@ -36,17 +37,13 @@ for a little demo
 ## More Resources
 
 - Markdown
-    - [Markdown tutorial](https://www.markdowntutorial.com)
-    - 
-- Github
-    - 
+    - [Tutorial](https://www.markdowntutorial.com)
+    - [Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+    - [Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Authors & Acknowledgements
 
 - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
-- Hat tip to anyone whose code is used
-- Inspiration
-- etc
 
 ## FAQ
 
