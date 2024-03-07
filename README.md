@@ -21,7 +21,7 @@ You must meet the following requirements before moving on to the instructions:
 
 ### Instructions
 
-Here is a step-by-step process of how to use Etter's principles to host a resume on Github pages.
+Here is a step-by-step process of how to use Etter's principles to host a resume on Github Pages.
 
 Say what the step will be
 
