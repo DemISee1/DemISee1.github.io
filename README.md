@@ -52,7 +52,7 @@ You must meet the following requirements:
 4. Set up Github Pages
 
     - Navigate to your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
-    - Now we need to edit our repository settings to tell Github Pages which directory to render.
+    - Now you need to edit your repository settings to tell Github Pages which directory to render.
         - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
         - Navigate to the 'Pages' tab under 'Code and Automation'.
         - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
