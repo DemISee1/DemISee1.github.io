@@ -83,7 +83,7 @@ You must meet the following requirements:
     
     - You can view your resume at `https://[RepositoryName]`. Note this will only work if your repository is properly named with the schema `[YourUsername].github.io`.
 
-![](Images/Resume.gif)
+    ![](Images/Resume.gif)
 
 ## More Resources
 
