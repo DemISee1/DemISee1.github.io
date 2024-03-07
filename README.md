@@ -16,7 +16,7 @@ You must meet the following requirements before moving on to the instructions:
 - Have [Github Desktop](https://desktop.github.com) installed or simply use git if you are already familiar with it.
 - Have a good understanding of how to write Markdown.
     - Refer to these [additional resources](#More-Resources) if needed.
-- Have a markdown editor capable of rendering GitHub Flavoured Markdown (GFM) or an in-browser editor. I recommend you use [StackEdit](https://stackedit.io/) which is an in-browser editor.
+- Have a markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
 - Have a resume.
 
 ### Instructions
