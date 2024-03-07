@@ -64,7 +64,7 @@ You must meet the following requirements:
 
     - First you add a `_config.yml` file to your repository if one does not already exist. Yo can do this by clicking on 'Add file' then clicking on 'Create new file'.
 
-        ![]()
+        ![](Images/AddFile.png)
 
     - Now you should add the necessary information into your configuration file. Below is an example of a `_config.yml` file which you should use for reference.
   
