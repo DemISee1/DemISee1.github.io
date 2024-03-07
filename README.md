@@ -28,7 +28,7 @@ You must meet the following requirements:
 
         ![](Images/CreateNewRepository.png)
   
-> "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
+    > "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
 2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository.
 
@@ -51,7 +51,7 @@ You must meet the following requirements:
 
 4. Set up Github Pages.
 
-    - Navigate to your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
+    - Navigate to your remote repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
     - Now you need to edit your repository settings to tell Github Pages which directory to render.
         - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
         - Navigate to the 'Pages' tab under 'Code and Automation'.
@@ -60,11 +60,13 @@ You must meet the following requirements:
 
         ![](Images/GithubPages.png)
 
-5. Adding a theme to your GitHub Pages site using Jekyll.
+    > According to Etter, static websites offer speed, simplicity, portability, security, and ease of hosting. Github Pages hosts static sites by using Jekyll as its static site generator, thus it follows one of the principles
+
+5. Adding a theme to your GitHub Pages site using [Jekyll](https://jekyllrb.com).
 
     - First you add a `_config.yml` file to your repository if one does not already exist. Yo can do this by clicking on 'Add file' then clicking on 'Create new file'.
 
-        ![]()
+        ![](Images/AddFile.png)
 
     - Now you should add the necessary information into your configuration file. Below is an example of a `_config.yml` file which you should use for reference.
   
@@ -75,6 +77,7 @@ You must meet the following requirements:
       ```
       
     - Github Pages supports a number of [themes](https://pages.github.com/themes/).
+    - Note if you do not include the description field the repository description you may have optionally chosen to set in step 1.
     
 6. Your resume should be hosted.
     
@@ -91,14 +94,14 @@ You must meet the following requirements:
 
 - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
 
+- [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md) - *Provided Resume Template* 
+
 ## FAQ
 
 ### Q: Why is markdown better than a word processor?
 
-A: Because it is :)
+A: Markdown's simple and intuitive syntax make it extremely readable to most people. Since Markdown files are plain text files, they are compatible with version control systems like Git. It is a very portable language as it can be opened and edited with any text editor and can be converted to a number of other popular formats using software such as [Pandoc](https://pandoc.org).
 
 ### Q: Why is my resume not showing up?
 
-A: Idk 🤷‍♂️
-
-^^ Will replace with serious answers ^^
+A: Make sure your repository is properly named following the schema `[YourUsername].github.io` and your resume file was named `index.md`. Also, check that your repository settings were properly set in step 4.
