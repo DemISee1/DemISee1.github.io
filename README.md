@@ -24,7 +24,6 @@ You must meet the following requirements before moving on to the instructions:
 
 1. Create a new Github repository called `[YourUsername].github.io`
 
-
 - Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
 - (Optional) You may choose to add a description for your repository.
 
@@ -32,9 +31,15 @@ You must meet the following requirements before moving on to the instructions:
   
 > "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
-2. Commit your markdown-formatted resume
+2. Commit your resume to your repository (should be in markdown already)
 
-- 
+- Use *Show in Finder* an add your resume to the folder.
+ 
+    ![](Images/OpenRepoInFinder.png)
+
+- Next commit your file using the *Commit to main** at the bottom left of the application.
+
+    ![](Images/CommitToMain.png)
 
 ## More Resources
 
