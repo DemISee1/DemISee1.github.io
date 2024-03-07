@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The goal of this document is to describes the practical steps necessary to host and format a resume using github pages with related discussion around Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+The goal of this document is to describes the practical steps necessary to host a resume using Github Pages with related discussion around Andrew Etter's key principles found in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## Getting Started
 
@@ -10,15 +10,15 @@ These instructions will guide you through the process of hosting your resume on 
 
 ### Prerequisites
 
-You must meet the following requirements before moving on to the instructions:
+You must meet the following requirements before moving on:
 
 - Have some familiarity with MacOS and its UI terminology.
 - Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
-- Have [Github Desktop](https://desktop.github.com) installed or simply use git if you are already familiar with it.
-- Have a good understanding of how to write Markdown.
+- Have [Github Desktop](https://desktop.github.com) installed or use git if you are already familiar with it.
+- Have a good understanding of Markdown including how to write in Markdown.
     - Refer to these [additional resources](#More-Resources) if needed.
-- Have a markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
-- Have a resume formatted in markdown.
+- Have a Markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) Markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
+- Have a resume formatted in Markdown.
 
 ### Instructions
 
@@ -43,7 +43,9 @@ You must meet the following requirements before moving on to the instructions:
 
 3. [Push](https://github.com/git-guides/git-push) to remote repository.
 
+- Press the *Push Origin* button to commit your resume to the remote repository. Note that you may be prompted to [*pull*](https://github.com/git-guides/git-pull) commits from your remote repository before the Push can go through. Proceed to Pull the changes followed by pushing.  
 
+    ![](Images/PushToOrigin.png)
 
 ## More Resources
 
