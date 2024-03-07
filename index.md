@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="Images/avatar.png" />
 
 <span style="float:right;padding:6px"> 
-  ameded@umanitoba.ca <br> mobile: +204 xxxxxxxx <br> Nationality: African <br> [Github](https://github.com/DemISee1)
+  ameded@umanitoba.ca <br> mobile: +204 xxxxxxxx <br> Nationality: African <br> <a href="https://github.com/username">Github</a>
 </span>
 
 # Software Engineer  
