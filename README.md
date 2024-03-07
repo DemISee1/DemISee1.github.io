@@ -22,7 +22,7 @@ You must meet the following requirements:
 
 ### Instructions
 
-1. Create a new Github repository called `[YourUsername].github.io`.
+1. Create a new Github repository.
 
 - Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
 - (Optional) You may choose to add a description for your repository.
@@ -51,7 +51,13 @@ You must meet the following requirements:
 
 4. Set up Github Pages
 
-- 
+- Navigate to your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
+- Now we need to change some setting within our repository.
+    - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
+    - Navigate to the 'Pages' tab under 'Code and Automation'.
+    - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
+    - Change the branch to `main`, folder to `/root`, and finally press 'save'.
+
 
 ## More Resources
 
