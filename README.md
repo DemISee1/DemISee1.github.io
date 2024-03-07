@@ -43,9 +43,15 @@ You must meet the following requirements before moving on:
 
 3. [Push](https://github.com/git-guides/git-push) to remote repository.
 
-- Press the *Push Origin* button to commit your resume to the remote repository. Note that you may be prompted to [*pull*](https://github.com/git-guides/git-pull) commits from your remote repository before the Push can go through. Proceed to Pull the changes followed by pushing.  
+- Press the *Push Origin* button to commit your resume to the remote repository. Note that you may be prompted to [*pull*](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. Proceed to pull the remote changes followed by pushing your changes.  
 
     ![](Images/PushToOrigin.png)
+
+- After completing this step your resume should be visible in your remote Github repository. You can view your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
+
+4. Set up Github Pages
+
+- 
 
 ## More Resources
 
