@@ -10,11 +10,11 @@ These instructions will guide you through the process of hosting your resume on 
 
 ### Prerequisites
 
-You must meet the following requirements before moving on:
+You must meet the following requirements.
 
 - Have some familiarity with MacOS and its UI terminology.
 - Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
-- Have [Github Desktop](https://desktop.github.com) installed or use git if you are already familiar with it.
+- Have [Github Desktop](https://desktop.github.com) installed.
 - Have a good understanding of Markdown including how to write in Markdown.
     - Refer to these [additional resources](#More-Resources) if needed.
 - Have a Markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) Markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
