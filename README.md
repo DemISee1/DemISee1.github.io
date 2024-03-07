@@ -24,7 +24,10 @@ You must meet the following requirements before moving on to the instructions:
 
 1. Create a new Github repository called `[YourUsername].github.io`
 
-- Using Github Desktop, create a new repository by navigating to the menu bar and click File >> Create New Repository. 
+- Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository.
+- Name your repository `[YourUsername].github.io`.
+- (Optional) You may choose to add a description for your repository.
+- Click create repository. 
 
     "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
