@@ -6,12 +6,13 @@ The goal of this document is to describes the practical steps necessary to host 
 
 ## Getting Started
 
-These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with MacOS in mind, thus it may not work on other operating systems.
+These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with MacOS in mind, thus it may not work on other operating systems. 
 
 ### Prerequisites
 
 You must meet the following requirements before moving on to the instructions:
 
+- Have some familiarity with MacOS and its UI terminology.
 - Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
 - Have [Github Desktop](https://desktop.github.com) installed or simply use git if you are already familiar with it.
 - Have a good understanding of how to write Markdown.
@@ -21,18 +22,12 @@ You must meet the following requirements before moving on to the instructions:
 
 ### Instructions
 
-Here is a step-by-step process of how to use Etter's principles to host a resume on Github Pages.
+1. Create a new Github repository called `[YourUsername].github.io`
 
-Say what the step will be
+- Using Github Desktop, create a new repository by navigating to the menu bar and click File >> Create New Repository. 
 
-    Give the example
+    "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
 
 ## More Resources
 
