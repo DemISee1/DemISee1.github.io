@@ -23,8 +23,8 @@ You must meet the following requirements:
 
 1. Create a new Github repository.
 
-- Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
-- (Optional) You may choose to add a description for your repository.
+    - Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
+    - (Optional) You may choose to add a description for your repository.
 
   ![](Images/CreateNewRepository.png)
   
@@ -32,31 +32,31 @@ You must meet the following requirements:
 
 2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository.
 
-- You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. Github Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
-- Use *Show in Finder* to open the local repository location and add your resume to the folder.
+    - You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. Github Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
+    - Use *Show in Finder* to open the local repository location and add your resume to the folder.
  
     ![](Images/OpenRepoInFinder.png)
 
-- Next commit your file using the *Commit to main* button at the bottom left of the application.
+    - Next commit your file using the *Commit to main* button at the bottom left of the application.
 
     ![](Images/CommitToMain.png)
 
 3. [Push](https://github.com/git-guides/git-push) to remote repository.
 
-- Press the *Push Origin* button to commit your resume to the remote repository. Note that you may be prompted to [*pull*](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. If that occurs first pull the remote changes into your local repository, then push your changes to the remote repository. 
+    - Press the *Push Origin* button to commit your resume to the remote repository. Note that you may be prompted to [*pull*](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. If that occurs first pull the remote changes into your local repository, then push your changes to the remote repository. 
 
     ![](Images/PushToOrigin.png)
 
-- After completing this step your resume should be visible in your remote Github repository. You can view your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
+    - After completing this step your resume should be visible in your remote Github repository. You can view your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
 
 4. Set up Github Pages
 
-- Navigate to your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
-- Now we need to edit our repository settings to tell Github Pages which directory to render.
-    - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
-    - Navigate to the 'Pages' tab under 'Code and Automation'.
-    - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
-    - Change the branch to `main`, folder to `/root`, and finally press 'save'.
+    - Navigate to your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
+    - Now we need to edit our repository settings to tell Github Pages which directory to render.
+        - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
+        - Navigate to the 'Pages' tab under 'Code and Automation'.
+        - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
+        - Change the branch to `main`, folder to `/root`, and finally press 'save'.
 
 ![](Images/GithubPages.png)
 
