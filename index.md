@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="Images/avatar.png" />
 
 <span style="float:right;padding:6px"> 
-  ameded@umanitoba.ca <br> mobile: +204 xxxxxxxx <br> Nationality: African <br> <a href="https://github.com/DemISee1">Github</a>
+  ameded@umanitoba.ca <br> mobile: +204 xxxxxxxx <br> Nationality: Human ❤️ <br> <a href="https://github.com/DemISee1">Github</a>
 </span>
 
 # Software Engineer  
@@ -14,7 +14,7 @@
 
 ## Working Experience
 
-#### Lifeguard and Swimming Instructor (2016-2019)
+#### Lifeguard and Swimming Instructor (1999-2024)
 
 ## Projects: 
 
