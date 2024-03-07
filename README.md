@@ -10,7 +10,7 @@ These instructions will guide you through the process of hosting your resume on 
 
 ### Prerequisites
 
-You must meet the following requirements.
+You must meet the following requirements:
 
 - Have some familiarity with MacOS and its UI terminology.
 - Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
