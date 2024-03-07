@@ -18,10 +18,10 @@
 
 ## Projects: 
 
-* [Neighbourhood](https://github.com/br-cz/neighbourhood) (2023-Present) - a social media app which aims to bring a sense of community into our online presence.
+* [Neighbourhood](https://github.com/br-cz/neighbourhood) (2023-Present) - a social media app which aims to bring a sense of community back to how we communicate with each other.
 * [Another Workout WebApp](https://github.com/Gordoco/Comp3020Project) (2020-2021) - a webapp which helps you keep track of your workouts.
 
-## Education & Qualifications
+## Education
 
 * BSc Computer Science, University of Manitoba (2020-Present).
   * Expected graduation date of Spring 2024.
