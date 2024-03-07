@@ -28,7 +28,7 @@ You must meet the following requirements:
 
         ![](Images/CreateNewRepository.png)
   
-> "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
+    > "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
 2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository.
 
@@ -60,7 +60,9 @@ You must meet the following requirements:
 
         ![](Images/GithubPages.png)
 
-5. Adding a theme to your GitHub Pages site using Jekyll.
+    > According to Etter, static websites offer speed, simplicity, portability, security, and ease of hosting. Github Pages hosts static sites by using Jekyll as its static site generator, thus it follows one of the principles
+
+5. Adding a theme to your GitHub Pages site using [Jekyll](https://jekyllrb.com).
 
     - First you add a `_config.yml` file to your repository if one does not already exist. Yo can do this by clicking on 'Add file' then clicking on 'Create new file'.
 
@@ -75,6 +77,7 @@ You must meet the following requirements:
       ```
       
     - Github Pages supports a number of [themes](https://pages.github.com/themes/).
+    - Note if you do not include the description field the repository description you may have optionally chosen to set in step 1.
     
 6. Your resume should be hosted.
     
