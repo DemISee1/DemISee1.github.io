@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The goal of this document is to describes the practical steps necessary to host a resume using Github Pages with related discussion around Andrew Etter's key principles found in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+The goal of this document is to apply Andrew Etter's key principles spelled out in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to give a step-by-step tutorial on how to host a resume using Github Pages.
 
 ## Getting Started
 
-These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with MacOS in mind. If you are using a different operating system the links provided may not be suitable for you. 
+These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with **MacOS** in mind. If you are using a different operating system the links provided may not be suitable for you. 
 
 ### Prerequisites
 
@@ -14,7 +14,7 @@ You must meet the following requirements:
 
 - Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
 - Have [Github Desktop](https://desktop.github.com) installed.
-- Have a good understanding of Markdown including how to write in Markdown.
+- Have a good understanding of how to write in Markdown.
     - Refer to these [additional resources](#More-Resources) if needed.
 - Have a Markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) Markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
 - Have a resume formatted in Markdown.
