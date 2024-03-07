@@ -31,6 +31,10 @@ You must meet the following requirements before moving on to the instructions:
 
     "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
+    sdfsfs
+  
+sdfasfds
+
 
 ## More Resources
 
