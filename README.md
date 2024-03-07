@@ -91,14 +91,14 @@ You must meet the following requirements:
 
 - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
 
+- [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md) - *Provided Resume Template* 
+
 ## FAQ
 
 ### Q: Why is markdown better than a word processor?
 
-A: Because it is :)
+A: Markdown's simple and intuitive syntax make it extremely readable to most people. Since Markdown files are plain text files, they are compatible with version control systems like Git. It is a very portable language as it can be opened and edited with any text editor and can be converted to a number of other popular formats using software such as [Pandoc](https://pandoc.org).
 
 ### Q: Why is my resume not showing up?
 
-A: Idk 🤷‍♂️
-
-^^ Will replace with serious answers ^^
+A: Make sure your repository is properly named following the schema `[YourUsername].github.io` and your resume file was named `index.md`. Also, check that your repository settings were properly set in step 4.
