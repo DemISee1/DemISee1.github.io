@@ -26,7 +26,7 @@ You must meet the following requirements:
     - Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
     - (Optional) You may choose to add a description for your repository.
 
-  ![](Images/CreateNewRepository.png)
+        ![](Images/CreateNewRepository.png)
   
 > "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
@@ -35,17 +35,17 @@ You must meet the following requirements:
     - You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. Github Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
     - Use *Show in Finder* to open the local repository location and add your resume to the folder.
  
-    ![](Images/OpenRepoInFinder.png)
+        ![](Images/OpenRepoInFinder.png)
 
     - Next commit your file using the *Commit to main* button at the bottom left of the application.
 
-    ![](Images/CommitToMain.png)
+        ![](Images/CommitToMain.png)
 
 3. [Push](https://github.com/git-guides/git-push) to remote repository.
 
     - Press the *Push Origin* button to commit your resume to the remote repository. Note that you may be prompted to [*pull*](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. If that occurs first pull the remote changes into your local repository, then push your changes to the remote repository. 
 
-    ![](Images/PushToOrigin.png)
+        ![](Images/PushToOrigin.png)
 
     - After completing this step your resume should be visible in your remote Github repository. You can view your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
 
@@ -58,7 +58,7 @@ You must meet the following requirements:
         - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
         - Change the branch to `main`, folder to `/root`, and finally press 'save'.
 
-![](Images/GithubPages.png)
+        ![](Images/GithubPages.png)
 
 ## More Resources
 
