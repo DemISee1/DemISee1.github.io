@@ -68,7 +68,7 @@ You must meet the following requirements:
 
         ![](Images/AddFile.png)
 
-    - Now you should add the necessary information into your configuration file. Below is an example of a `_config.yml` file which you should use for reference.
+    - Now you should add the necessary information into your configuration file. Add the following lines of code to your `_config.yml` file and complete them by replacing the square bracketed parts with your own information. [Here](https://pages.github.com/themes/) is a resource which contains a list of supported GitHub Pages themes.
   
       ```yml
       title: [PageTitle]
@@ -76,8 +76,7 @@ You must meet the following requirements:
       theme: [ChosenTheme]
       ```
       
-    - GitHub Pages supports a number of [themes](https://pages.github.com/themes/).
-    - Note if you do not include the description field the repository description you may have optionally chosen to set in step 1.
+    - Note if you do not include the description field the repository description you could have optionally chosen to set in step 1 will be used as your resume description.
     
 6. Your resume should be hosted.
     
