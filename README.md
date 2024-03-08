@@ -2,18 +2,18 @@
 
 ## Purpose
 
-The goal of this document is to use Andrew Etter's key principles spelled out in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to give a step-by-step tutorial on how to host a resume using Github Pages.
+The goal of this document is to use Andrew Etter's key principles spelled out in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to give a step-by-step tutorial on how to host a resume using GitHub Pages.
 
 ## Getting Started
 
-These instructions will guide you through the process of hosting your resume on Github Pages as a static site. Note that this process was made with **MacOS** in mind. If you are using a different operating system the links provided may not be suitable for you. 
+These instructions will guide you through the process of hosting your resume on GitHub Pages as a static site. Note that this process was made with **MacOS** in mind. If you are using a different operating system the links provided may not be suitable for you. 
 
 ### Prerequisites
 
 You must meet the following requirements:
 
-- Have a [Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
-- Have [Github Desktop](https://desktop.github.com) installed.
+- Have a [GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) account.
+- Have [GitHub Desktop](https://desktop.github.com) installed.
 - Have a good understanding of how to write in Markdown.
     - Refer to these [additional resources](#More-Resources) if needed.
 - Have a Markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) Markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
@@ -21,9 +21,9 @@ You must meet the following requirements:
 
 ### Instructions
 
-1. Create a new Github repository.
+1. Create a new GitHub repository.
 
-    - Using Github Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
+    - Using GitHub Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
     - (Optional) You may choose to add a description for your repository.
 
         ![](Images/CreateNewRepository.png)
@@ -32,7 +32,7 @@ You must meet the following requirements:
 
 2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository.
 
-    - You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. Github Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
+    - You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. GitHub Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
     - Use *Show in Finder* to open the local repository location and add your resume to the folder.
  
         ![](Images/OpenRepoInFinder.png)
@@ -47,12 +47,12 @@ You must meet the following requirements:
 
         ![](Images/PushToOrigin.png)
 
-    - After completing this step your resume should be visible in your remote Github repository. You can view your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
+    - After completing this step your resume should be visible in your remote GitHub repository. You can view your repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
 
-4. Set up Github Pages.
+4. Set up GitHub Pages.
 
     - Navigate to your remote repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
-    - Now you need to edit your repository settings to tell Github Pages which directory to render.
+    - Now you need to edit your repository settings to tell GitHub Pages which directory to render.
         - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
         - Navigate to the 'Pages' tab under 'Code and Automation'.
         - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
@@ -60,7 +60,7 @@ You must meet the following requirements:
 
         ![](Images/GithubPages.png)
 
-    > According to Etter, static websites offer speed, simplicity, portability, security, and ease of hosting. Github Pages hosts static sites by using Jekyll as its static site generator, thus it follows one of the principles
+    > According to Etter, static websites offer speed, simplicity, portability, security, and ease of hosting. GitHub Pages hosts static sites by using Jekyll as its static site generator, thus it follows one of the principles
 
 5. Adding a theme to your GitHub Pages site using [Jekyll](https://jekyllrb.com).
 
@@ -76,7 +76,7 @@ You must meet the following requirements:
       theme: [ChosenTheme]
       ```
       
-    - Github Pages supports a number of [themes](https://pages.github.com/themes/).
+    - GitHub Pages supports a number of [themes](https://pages.github.com/themes/).
     - Note if you do not include the description field the repository description you may have optionally chosen to set in step 1.
     
 6. Your resume should be hosted.
