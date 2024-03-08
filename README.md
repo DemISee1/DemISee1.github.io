@@ -1,4 +1,4 @@
-# Hosting an Online Website (Resume) using Etter's Modern Technical Writing Principles
+# Hosting an Online Website (Resume) using GitHub Pages
 
 ## Purpose
 
