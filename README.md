@@ -69,7 +69,7 @@ You must meet the following requirements:
 
         ![](Images/AddFile.png)
 
-    - Now you should add the necessary information into your configuration file. Add the following lines of code to your `_config.yml` file and complete them by replacing the square bracketed parts with your own information. [Here](https://pages.github.com/themes/) is a resource which contains a list of supported GitHub Pages themes.
+    - Next, add the necessary information into your configuration file. Add the following lines of code to your `_config.yml` file and complete them by replacing the square bracketed parts with your own information. [Here](https://pages.github.com/themes/) is a resource which contains a list of supported GitHub Pages themes.
   
       ```yml
       title: [PageTitle]
