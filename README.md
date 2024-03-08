@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The goal of this document is to apply Andrew Etter's key principles spelled out in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to give a step-by-step tutorial on how to host a resume using Github Pages.
+The goal of this document is to use Andrew Etter's key principles spelled out in his book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to give a step-by-step tutorial on how to host a resume using Github Pages.
 
 ## Getting Started
 
