@@ -6,7 +6,7 @@ The goal of this document is to use Andrew Etter's key principles spelled out in
 
 ## Getting Started
 
-These instructions will guide you through the process of hosting your resume on GitHub Pages as a static site. Note that this process was made with **MacOS** in mind. If you are using a different operating system the links provided may not be suitable for you. 
+These instructions will guide you through the process of hosting your resume on GitHub Pages as a static site. Note that this process was made with ***MacOS*** in mind. If you are using a different operating system the links provided may not be suitable for you. 
 
 ### Prerequisites
 
@@ -33,17 +33,17 @@ You must meet the following requirements:
 2. [Commit](https://github.com/git-guides/git-commit) your resume to your local repository.
 
     - You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. GitHub Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
-    - Click **Show in Finder** to open the local repository location and add your resume to the folder.
+    - Click ***Show in Finder*** to open the local repository location and add your resume to the folder.
  
         ![](Images/OpenRepoInFinder.png)
 
-    - Next commit your file by clicking **Commit to main** at the bottom left of the GitHub Desktop application.
+    - Next commit your file by clicking ***Commit to main*** at the bottom left of the GitHub Desktop application.
 
         ![](Images/CommitToMain.png)
 
 3. [Push](https://github.com/git-guides/git-push) changes to your remote repository.
 
-    - Click **Push Origin** to commit your resume to the remote repository. Note that you may be prompted to [pull](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. If that occurs first pull the remote changes into your local repository, then push your local changes to the remote repository. 
+    - Click ***Push Origin*** to commit your resume to the remote repository. Note that you may be prompted to [pull](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. If that occurs first pull the remote changes into your local repository, then push your local changes to the remote repository. 
 
         ![](Images/PushToOrigin.png)
 
@@ -54,10 +54,10 @@ You must meet the following requirements:
     - Navigate to your remote repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
     - Now you need to edit your repository settings to tell GitHub Pages which directory to render.
         - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
-        - Navigate to the **Pages** tab under **Code and Automation**.
-        - Once there, change the **Source** under **Build and deployment** to **Deploy from a branch**.
+        - Navigate to the ***Pages*** tab under ***Code and Automation***.
+        - Once there, change the ***Source*** under ***Build and deployment*** to ***Deploy from a branch***.
         - Below that, change the branch to `main` and folder to `/root`.
-        - Finally, press **Save**.
+        - Finally, press ***Save***.
 
         ![](Images/GithubPages.png)
 
@@ -65,7 +65,7 @@ You must meet the following requirements:
 
 5. Adding a theme to your GitHub Pages site using [Jekyll](https://jekyllrb.com).
 
-    - First, you add a `_config.yml` file to your repository if one does not already exist. You can do this by clicking **Add file** then clicking on **Create new file**.
+    - First, you add a `_config.yml` file to your repository if one does not already exist. You can do this by clicking ***Add file*** then clicking on ***Create new file***.
 
         ![](Images/AddFile.png)
 
@@ -97,7 +97,7 @@ Congrats! 🥳
 
 ## Authors & Acknowledgements
 
-- **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
+- ***Billie Thompson*** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
 
 - [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md) - *Provided Resume Template*
 - A special thank you to Saida Sonan and Yuze Chen for their help during the peer review process!
