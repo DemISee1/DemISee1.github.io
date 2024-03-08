@@ -30,20 +30,20 @@ You must meet the following requirements:
   
     > "Distributed version control systems \[such as\] Git... \[provide\] better performance, allow for offline work, and are superior for concurrent work on the same file," - Etter.
 
-2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository.
+2. [Commit](https://github.com/git-guides/git-commit) your resume to your local repository.
 
     - You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. GitHub Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
-    - Use **Show in Finder** to open the local repository location and add your resume to the folder.
+    - Click **Show in Finder** to open the local repository location and add your resume to the folder.
  
         ![](Images/OpenRepoInFinder.png)
 
-    - Next commit your file using the *Commit to main* button at the bottom left of the application.
+    - Next commit your file by clicking **Commit to main** at the bottom left of the GitHub Desktop application.
 
         ![](Images/CommitToMain.png)
 
-3. [Push](https://github.com/git-guides/git-push) to remote repository.
+3. [Push](https://github.com/git-guides/git-push) changes to your remote repository.
 
-    - Press the *Push Origin* button to commit your resume to the remote repository. Note that you may be prompted to [*pull*](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. If that occurs first pull the remote changes into your local repository, then push your changes to the remote repository. 
+    - Click **Push Origin** to commit your resume to the remote repository. Note that you may be prompted to [pull](https://github.com/git-guides/git-pull) commits from your remote repository before your push can go through. If that occurs first pull the remote changes into your local repository, then push your local changes to the remote repository. 
 
         ![](Images/PushToOrigin.png)
 
@@ -64,7 +64,7 @@ You must meet the following requirements:
 
 5. Adding a theme to your GitHub Pages site using [Jekyll](https://jekyllrb.com).
 
-    - First you add a `_config.yml` file to your repository if one does not already exist. Yo can do this by clicking on 'Add file' then clicking on 'Create new file'.
+    - First, you add a `_config.yml` file to your repository if one does not already exist. You can do this by clicking on 'Add file' then clicking on 'Create new file'.
 
         ![](Images/AddFile.png)
 
