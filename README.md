@@ -19,7 +19,7 @@ You must meet the following requirements:
 - Have a Markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) Markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
 - Have a resume formatted in Markdown.
 
-> In 'Modern Technical Writing,' Andrew Etter champions Markdown as a foundational tool for creating clear and accessible documentation. He emphasizes its simplicity, readability, and compatibility with version control systems like Git. Etter highlights Markdown's versatility, allowing technical writers to focus on content creation without getting bogged down by complex formatting. By embracing Markdown, writers can streamline their workflow and produce documentation that is both user-friendly and easily maintainable.
+    > In 'Modern Technical Writing,' Andrew Etter champions Markdown as a foundational tool for creating clear and accessible documentation. He emphasizes its simplicity, readability, and compatibility with version control systems like Git. Etter highlights Markdown's versatility, allowing technical writers to focus on content creation without getting bogged down by complex formatting. By embracing Markdown, writers can streamline their workflow and produce documentation that is both user-friendly and easily maintainable.
 
 ### Instructions
 
