@@ -23,7 +23,7 @@ You must meet the following requirements:
 
 1. Create a new GitHub repository.
 
-    - Using GitHub Desktop, create a new repository by navigating to the menu bar >> File >> Create New Repository. Name your repository `[YourUsername].github.io`.
+    - Using GitHub Desktop, create a new repository by navigating to File >> Create New Repository in the menu bar. Name your repository `[YourUsername].github.io`.
     - (Optional) You may choose to add a description for your repository.
 
         ![](Images/CreateNewRepository.png)
@@ -33,7 +33,7 @@ You must meet the following requirements:
 2. [Commit](https://github.com/git-guides/git-commit) your resume to your repository.
 
     - You should have a markdown-formatted resume. Make sure to rename it to `index.md` if it is not already. GitHub Pages looks for a file of that name when rendering the static site so you must name your file accordingly.
-    - Use *Show in Finder* to open the local repository location and add your resume to the folder.
+    - Use **Show in Finder** to open the local repository location and add your resume to the folder.
  
         ![](Images/OpenRepoInFinder.png)
 
@@ -85,6 +85,8 @@ You must meet the following requirements:
 
     ![](Images/Resume.gif)
 
+After completing this step-by-step tutorial you should have a working static website of your Markdown resume hosted by GitHub Pages! Congrats!
+
 ## More Resources
 
 - Markdown
@@ -96,7 +98,8 @@ You must meet the following requirements:
 
 - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
 
-- [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md) - *Provided Resume Template* 
+- [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md) - *Provided Resume Template*
+- A special thank you to Saida Sonan and Yuze Chen for their help during the peer review process!
 
 ## FAQ
 
