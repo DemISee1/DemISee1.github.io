@@ -102,7 +102,7 @@ Congrats! 🥳
 - ***Billie Thompson*** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
 
 - [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md) - *Provided Resume Template*
-- A special thank you to Saida Sonan and Yuze Chen for their help during the peer review process!
+- A special thank you to Saida Sanon and Yuze Chen for their help during the peer review process!
 
 ## FAQ
 
@@ -112,7 +112,9 @@ A: Markdown's simple and intuitive syntax make it extremely readable for most in
 
 ### Q: Why is my resume not showing up?
 
-Check the following:
-- Make sure your repository is named following the schema `[YourUsername].github.io`.
-- Make sure your resume file is named `index.md`.
-- Make sure your repository settings were properly set in step 4.
+Make sure your:
+- repository is named following the schema `[YourUsername].github.io`.
+- repository settings were properly set in step 4.
+- resume file is named `index.md`.
+
+If the issue still presists, I recommend you start over with a fresh repository.
