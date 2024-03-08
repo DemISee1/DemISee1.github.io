@@ -54,9 +54,10 @@ You must meet the following requirements:
     - Navigate to your remote repository by visiting `github.com/[YourUsername]/[YourRepositoryName]`.
     - Now you need to edit your repository settings to tell GitHub Pages which directory to render.
         - Navigate to the repository settings by pressing the *settings* button which is located in the navigation bar at the top of the page. This will direct you to a new page.
-        - Navigate to the 'Pages' tab under 'Code and Automation'.
-        - Once there, change the 'Source' under 'Build and deployment' to 'Deploy from a branch'.
-        - Change the branch to `main`, folder to `/root`, and finally press 'save'.
+        - Navigate to the **Pages** tab under **Code and Automation**.
+        - Once there, change the **Source** under **Build and deployment** to **Deploy from a branch**.
+        - Below that, change the branch to `main` and folder to `/root`.
+        - Finally, press **Save**.
 
         ![](Images/GithubPages.png)
 
@@ -64,7 +65,7 @@ You must meet the following requirements:
 
 5. Adding a theme to your GitHub Pages site using [Jekyll](https://jekyllrb.com).
 
-    - First, you add a `_config.yml` file to your repository if one does not already exist. You can do this by clicking on 'Add file' then clicking on 'Create new file'.
+    - First, you add a `_config.yml` file to your repository if one does not already exist. You can do this by clicking **Add file** then clicking on **Create new file**.
 
         ![](Images/AddFile.png)
 
