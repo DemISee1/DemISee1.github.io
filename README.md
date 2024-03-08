@@ -28,7 +28,7 @@ You must meet the following requirements:
 
         ![](Images/CreateNewRepository.png)
   
-    > In 'Modern Technical Writing,' Andrew Etter underscores the pivotal role of Distributed Version Control Systems (DVCS) like Git in the documentation process. He emphasizes that DVCS enables seamless collaboration among team members, robust version control, and efficient tracking of changes. By embracing DVCS, technical writers can ensure the integrity and accessibility of documentation, fostering a more streamlined and collaborative writing process.
+> In 'Modern Technical Writing,' Andrew Etter underscores the pivotal role of Distributed Version Control Systems (DVCS) like Git in the documentation process. He emphasizes that DVCS enables seamless collaboration among team members, robust version control, and efficient tracking of changes. By embracing DVCS, technical writers can ensure the integrity and accessibility of documentation, fostering a more streamlined and collaborative writing process.
 
 2. [Commit](https://github.com/git-guides/git-commit) your resume to your local repository.
 
