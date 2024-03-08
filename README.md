@@ -19,6 +19,8 @@ You must meet the following requirements:
 - Have a Markdown editor capable of rendering [GitHub Flavoured Markdown (GFM)](https://github.github.com/gfm/) or use an in-browser editor. I recommend either downloading the [Pine](https://lukakerr.github.io/Pine/) Markdown editor or using [StackEdit](https://stackedit.io/) which is an in-browser editor.
 - Have a resume formatted in Markdown.
 
+> In 'Modern Technical Writing,' Andrew Etter champions Markdown as a foundational tool for creating clear and accessible documentation. He emphasizes its simplicity, readability, and compatibility with version control systems like Git. Etter highlights Markdown's versatility, allowing technical writers to focus on content creation without getting bogged down by complex formatting. By embracing Markdown, writers can streamline their workflow and produce documentation that is both user-friendly and easily maintainable.
+
 ### Instructions
 
 1. Create a new GitHub repository.
@@ -61,7 +63,7 @@ You must meet the following requirements:
 
         ![](Images/GithubPages.png)
 
-    > According to Etter, static websites offer speed, simplicity, portability, security, and ease of hosting. GitHub Pages hosts static sites by using Jekyll as its static site generator, thus it follows one of the principles
+    > In 'Modern Technical Writing,' Andrew Etter advocates for the adoption of static websites as a cornerstone of effective documentation strategies. He highlights their simplicity, speed, and security compared to dynamic counterparts. Etter underscores that static websites offer unparalleled reliability and scalability, making them an ideal choice for technical documentation projects. By leveraging static websites, technical writers can deliver content that is easily maintainable, accessible, and responsive to user needs.
 
 5. Adding a theme to your GitHub Pages site using [Jekyll](https://jekyllrb.com).
 
