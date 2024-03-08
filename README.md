@@ -106,7 +106,7 @@ Congrats! 🥳
 
 ### Q: Why is markdown better than a word processor?
 
-A: Markdown's simple and intuitive syntax make it extremely readable to most people. Since Markdown files are plain text files, they are compatible with version control systems like Git. It is a very portable language as it can be opened and edited with any text editor and can be converted to a number of other popular formats using software such as [Pandoc](https://pandoc.org).
+A: Markdown's simple and intuitive syntax make it extremely readable for most individuals. Since Markdown files are plain text files, they are compatible with version control systems like Git. Also, it is a very portable language as it can be opened and edited with any text editor and can be converted to a number of other popular formats using software such as [Pandoc](https://pandoc.org).
 
 ### Q: Why is my resume not showing up?
 
