@@ -83,9 +83,10 @@ You must meet the following requirements:
     
     - You can view your resume at `https://[RepositoryName]`. Note this will only work if your repository is properly named with the schema `[YourUsername].github.io`.
 
-    ![](Images/Resume.gif)
+        ![](Images/Resume.gif)
 
-After completing this step-by-step tutorial you should have a working static website of your Markdown resume hosted by GitHub Pages! Congrats!
+After completing this step-by-step tutorial you should have a working static website of your Markdown resume hosted by GitHub Pages! 
+Congrats! 🥳
 
 ## More Resources
 
